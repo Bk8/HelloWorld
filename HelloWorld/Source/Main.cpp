@@ -17,6 +17,7 @@ int main (int argc, char* argv[])
 
     // ..your code goes here!
     printf("Hello World");
+	printf("Hello");
 
 
     return 0;
